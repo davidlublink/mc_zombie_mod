@@ -1,0 +1,30 @@
+{
+  "group": "zombie_mods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zombie_mods:zombiefeid_ingot"
+    },
+    "1": {
+      "item": "zombie_mods:zombiefeid_ingot"
+    },
+    "2": {
+      "item": "zombie_mods:zombiefeid_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zombie_mods:zombiefeid_axe",
+    "count": 1
+  }
+}

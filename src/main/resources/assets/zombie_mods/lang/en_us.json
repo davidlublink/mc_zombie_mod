@@ -1,7 +1,12 @@
 {
   "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
+  "item.zombie_mods.zombiefeid_axe": "Zombiefeid Axe",
+  "item.zombie_mods.lightning_rod": "Lightning Rod",
   "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
+  "item.zombie_mods.zombiefeid_shovel": "Zombiefeid Shovel",
+  "item.zombie_mods.zombiefeidpickaxe": "Zombiefeidpickaxe",
   "item.zombie_mods.double_stick": "Double Stick",
+  "item.zombie_mods.zombiefeidhoe": "Zombiefeidhoe",
   "item.zombie_mods.zombiefied": "Zombiefied",
   "item.zombie_mods.fertalizer": "Fertalizer"
 }

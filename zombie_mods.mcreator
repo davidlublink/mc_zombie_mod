@@ -137,6 +137,143 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "double_stick_recipe"
+    },
+    {
+      "name": "ZombieHouse",
+      "type": "structure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_house"
+    },
+    {
+      "name": "Zombiefeidpickaxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefeidpickaxe"
+    },
+    {
+      "name": "LightningRodEntitySwingsItem",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightning_rod_entity_swings_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LightningRod",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightning_rod"
+    },
+    {
+      "name": "ZombiePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_pickaxe_recipe"
+    },
+    {
+      "name": "ZombiefeidAxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefeid_axe"
+    },
+    {
+      "name": "ZombieAxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_axe_recipe"
+    },
+    {
+      "name": "ZombieAxeRecipe2",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_axe_recipe_2"
+    },
+    {
+      "name": "ZombiefAxeRecipe2",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombief_axe_recipe_2"
+    },
+    {
+      "name": "ZombiefeidShovel",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefeid_shovel"
+    },
+    {
+      "name": "Zombiefeidhoe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefeidhoe"
+    },
+    {
+      "name": "ZombiefeidShovelRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefeid_shovel_recipe"
+    },
+    {
+      "name": "ZombiefeidHoeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefeid_hoe_recipe"
     }
   ],
   "variable_elements": [],
@@ -144,8 +281,13 @@
   "language_map": {
     "en_us": {
       "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
+      "item.zombie_mods.zombiefeid_axe": "Zombiefeid Axe",
+      "item.zombie_mods.lightning_rod": "Lightning Rod",
       "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
+      "item.zombie_mods.zombiefeid_shovel": "Zombiefeid Shovel",
+      "item.zombie_mods.zombiefeidpickaxe": "Zombiefeidpickaxe",
       "item.zombie_mods.double_stick": "Double Stick",
+      "item.zombie_mods.zombiefeidhoe": "Zombiefeidhoe",
       "item.zombie_mods.zombiefied": "Zombiefied",
       "item.zombie_mods.fertalizer": "Fertalizer"
     }
