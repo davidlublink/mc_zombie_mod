@@ -1,0 +1,30 @@
+{
+  "group": "zombie_mods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:ender_pearl"
+    },
+    "3": {
+      "item": "minecraft:diamond_block"
+    },
+    "4": {
+      "item": "minecraft:sugar_cane"
+    },
+    "5": {
+      "item": "minecraft:oak_door"
+    },
+    "7": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "zombie_mods:glicth_sword",
+    "count": 1
+  }
+}

@@ -274,6 +274,53 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "zombiefeid_hoe_recipe"
+    },
+    {
+      "name": "GlicthSwordLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glicth_sword_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GlicthSword",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glicth_sword"
+    },
+    {
+      "name": "GlitchSwordRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glitch_sword_recipe"
     }
   ],
   "variable_elements": [],
@@ -281,6 +328,7 @@
   "language_map": {
     "en_us": {
       "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
+      "item.zombie_mods.glicth_sword": "Glicth Sword",
       "item.zombie_mods.zombiefeid_axe": "Zombiefeid Axe",
       "item.zombie_mods.lightning_rod": "Lightning Rod",
       "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
