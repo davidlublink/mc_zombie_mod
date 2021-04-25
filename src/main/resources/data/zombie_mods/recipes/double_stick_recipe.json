@@ -1,0 +1,16 @@
+{
+  "group": "zombie_mods",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "zombie_mods:double_stick",
+    "count": 4
+  }
+}

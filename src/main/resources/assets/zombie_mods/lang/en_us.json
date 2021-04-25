@@ -1,3 +1,7 @@
 {
-  "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot"
+  "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
+  "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
+  "item.zombie_mods.double_stick": "Double Stick",
+  "item.zombie_mods.zombiefied": "Zombiefied",
+  "item.zombie_mods.fertalizer": "Fertalizer"
 }

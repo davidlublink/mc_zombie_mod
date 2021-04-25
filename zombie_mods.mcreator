@@ -18,13 +18,136 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "zombiefeid_ingot"
+    },
+    {
+      "name": "BetterDiamondTree",
+      "type": "structure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_diamond_tree"
+    },
+    {
+      "name": "Infectedhouse",
+      "type": "structure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infectedhouse"
+    },
+    {
+      "name": "ZombiefeidBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefeid_block"
+    },
+    {
+      "name": "ZombieIngotRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_ingot_recipe"
+    },
+    {
+      "name": "ZombieBlockRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_block_recipe"
+    },
+    {
+      "name": "Zombiefied",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefied"
+    },
+    {
+      "name": "FertalizerRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fertalizer_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fertalizer",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fertalizer"
+    },
+    {
+      "name": "ZombieSwordRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_sword_recipe"
+    },
+    {
+      "name": "DoubleStick",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "double_stick"
+    },
+    {
+      "name": "DoubleStickRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "double_stick_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot"
+      "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
+      "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
+      "item.zombie_mods.double_stick": "Double Stick",
+      "item.zombie_mods.zombiefied": "Zombiefied",
+      "item.zombie_mods.fertalizer": "Fertalizer"
     }
   },
   "workspaceSettings": {
