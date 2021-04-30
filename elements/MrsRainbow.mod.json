@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "fertalizer",
+    "texture": "mrs_unicorn",
     "customModelName": "Normal",
-    "name": "Fertalizer",
+    "name": "Mrs Rainbow",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"
@@ -27,12 +27,6 @@
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "onRightClickedOnBlock": {
-      "name": "FertalizerRightClickedOnBlock"
-    },
-    "onDroppedByPlayer": {
-      "name": "FertalizerItemIsDroppedByPlayer"
-    }
+    "inventoryStackSize": 64
   }
 }

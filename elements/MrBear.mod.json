@@ -3,14 +3,14 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "fertalizer",
+    "texture": "mrbear",
     "customModelName": "Normal",
-    "name": "Fertalizer",
+    "name": "Mr Bear",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"
     },
-    "stackSize": 64,
+    "stackSize": 1,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,
@@ -27,12 +27,6 @@
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "onRightClickedOnBlock": {
-      "name": "FertalizerRightClickedOnBlock"
-    },
-    "onDroppedByPlayer": {
-      "name": "FertalizerItemIsDroppedByPlayer"
-    }
+    "inventoryStackSize": 64
   }
 }

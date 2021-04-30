@@ -5,7 +5,7 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 9,
+    "recipeRetstackSize": 1,
     "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
@@ -13,34 +13,34 @@
         "value": ""
       },
       {
-        "value": ""
+        "value": "Blocks.WOOL#0"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "Blocks.WOOL#0"
       },
       {
-        "value": "CUSTOM:ZombiefeidBlock"
+        "value": "Items.LAVA_BUCKET"
       },
       {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "Blocks.WOOL#0"
       },
       {
         "value": ""
+      },
+      {
+        "value": "Blocks.WOOL#0"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:ZombiefeidIngot"
+      "value": "CUSTOM:Present"
     },
-    "name": "zombie_ingot_recipe",
+    "name": "present_recipe",
     "namespace": "mod"
   }
 }
