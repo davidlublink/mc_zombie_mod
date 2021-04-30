@@ -1,0 +1,12 @@
+{
+  "_fv": 13,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Z",
+    "keyBindingName": "Zmake",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "ZmakeOnKeyPressed"
+    }
+  }
+}

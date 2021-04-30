@@ -30,6 +30,9 @@
     "inventoryStackSize": 64,
     "onRightClickedOnBlock": {
       "name": "FertalizerRightClickedOnBlock"
+    },
+    "onDroppedByPlayer": {
+      "name": "FertalizerItemIsDroppedByPlayer"
     }
   }
 }

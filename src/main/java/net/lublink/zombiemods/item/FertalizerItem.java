@@ -16,6 +16,7 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.block.BlockState;
 
 import net.lublink.zombiemods.procedures.FertalizerRightClickedOnBlockProcedure;
+import net.lublink.zombiemods.procedures.FertalizerItemIsDroppedByPlayerProcedure;
 import net.lublink.zombiemods.ZombieModsModElements;
 
 import java.util.Map;
@@ -74,6 +75,23 @@ public class FertalizerItem extends ZombieModsModElements.ModElement {
 				FertalizerRightClickedOnBlockProcedure.executeProcedure($_dependencies);
 			}
 			return retval;
+		}
+
+		@Override
+		public boolean onDroppedByPlayer(ItemStack itemstack, PlayerEntity entity) {
+			double x = entity.getPosX();
+			double y = entity.getPosY();
+			double z = entity.getPosZ();
+			World world = entity.world;
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				FertalizerItemIsDroppedByPlayerProcedure.executeProcedure($_dependencies);
+			}
+			return true;
 		}
 	}
 }

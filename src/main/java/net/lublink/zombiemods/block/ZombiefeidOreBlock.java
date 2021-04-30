@@ -23,7 +23,7 @@ public class ZombiefeidOreBlock extends ZombieModsModElements.ModElement {
 	@ObjectHolder("zombie_mods:zombiefeid_ore")
 	public static final Block block = null;
 	public ZombiefeidOreBlock(ZombieModsModElements instance) {
-		super(instance, 28);
+		super(instance, 50);
 	}
 
 	@Override
@@ -34,7 +34,7 @@ public class ZombiefeidOreBlock extends ZombieModsModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(4f, 11.5f).lightValue(0));
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(3f, 10f).lightValue(0));
 			setRegistryName("zombiefeid_ore");
 		}
 

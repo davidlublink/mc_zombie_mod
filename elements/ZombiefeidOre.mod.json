@@ -2,7 +2,7 @@
   "_fv": 13,
   "_type": "block",
   "definition": {
-    "texture": "zombiefeid_ore",
+    "texture": "zombieore",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -26,8 +26,8 @@
     "Mz": 1.0,
     "name": "Zombiefeid Ore",
     "specialInfo": [],
-    "hardness": 4.0,
-    "resistance": 11.5,
+    "hardness": 3.0,
+    "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -100,8 +100,8 @@
       }
     ],
     "frequencyPerChunks": 10,
-    "frequencyOnChunk": 19,
-    "minGenerateHeight": 4,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 5,
     "maxGenerateHeight": 27
   }
 }
