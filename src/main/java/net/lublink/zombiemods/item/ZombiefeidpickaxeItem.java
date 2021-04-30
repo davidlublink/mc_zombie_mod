@@ -28,7 +28,7 @@ public class ZombiefeidpickaxeItem extends ZombieModsModElements.ModElement {
 			}
 
 			public float getEfficiency() {
-				return 12f;
+				return 20f;
 			}
 
 			public float getAttackDamage() {

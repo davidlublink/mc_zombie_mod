@@ -3,27 +3,23 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "zombiefeid_shovel",
+    "texture": "god_picaxe",
     "customModelName": "Normal",
-    "name": "Zombiefeid Shovel",
+    "name": "God Pickaxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Spade",
-    "harvestLevel": 3,
-    "efficiency": 14.0,
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 10000.0,
     "attackSpeed": 1.0,
     "enchantability": 2,
     "damageVsEntity": 4.0,
-    "usageCount": 2800,
+    "usageCount": 100000,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [
-      {
-        "value": "CUSTOM:ZombiefeidIngot"
-      }
-    ],
+    "repairItems": [],
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

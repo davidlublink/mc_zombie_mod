@@ -28,7 +28,7 @@ public class ZombiefeidAxeItem extends ZombieModsModElements.ModElement {
 			}
 
 			public float getEfficiency() {
-				return 13f;
+				return 20f;
 			}
 
 			public float getAttackDamage() {

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "zombie_mods:block/the_do_not_break_this_block"
+    }
+  }
+}

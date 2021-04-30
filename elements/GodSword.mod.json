@@ -3,27 +3,23 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "zombiefeid_shovel",
+    "texture": "god_sword",
     "customModelName": "Normal",
-    "name": "Zombiefeid Shovel",
+    "name": "God Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "COMBAT"
     },
-    "toolType": "Spade",
-    "harvestLevel": 3,
-    "efficiency": 14.0,
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
     "attackSpeed": 1.0,
     "enchantability": 2,
-    "damageVsEntity": 4.0,
-    "usageCount": 2800,
+    "damageVsEntity": 10000.0,
+    "usageCount": 100,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [
-      {
-        "value": "CUSTOM:ZombiefeidIngot"
-      }
-    ],
+    "repairItems": [],
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

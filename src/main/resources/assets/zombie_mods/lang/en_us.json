@@ -1,13 +1,19 @@
 {
-  "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
-  "item.zombie_mods.glicth_sword": "Glicth Sword",
+  "item.zombie_mods.blueron_sword": "Blueron Sword",
   "item.zombie_mods.zombiefeid_axe": "Zombiefeid Axe",
-  "item.zombie_mods.lightning_rod": "Lightning Rod",
-  "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
+  "item.zombie_mods.god_sword": "God Sword",
   "item.zombie_mods.zombiefeid_shovel": "Zombiefeid Shovel",
-  "item.zombie_mods.zombiefeidpickaxe": "Zombiefeidpickaxe",
+  "item.zombie_mods.blueron": "Blueron",
   "item.zombie_mods.double_stick": "Double Stick",
   "item.zombie_mods.zombiefeidhoe": "Zombiefeidhoe",
   "item.zombie_mods.zombiefied": "Zombiefied",
-  "item.zombie_mods.fertalizer": "Fertalizer"
+  "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
+  "item.zombie_mods.glicth_sword": "Glicth Sword",
+  "block.zombie_mods.blueron_block": "Blueron Block",
+  "item.zombie_mods.lightning_rod": "Lightning Rod",
+  "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
+  "item.zombie_mods.zombiefeidpickaxe": "Zombiefeidpickaxe",
+  "item.zombie_mods.fertalizer": "Fertalizer",
+  "item.zombie_mods.god_pickaxe": "God Pickaxe",
+  "block.zombie_mods.bluerongrass": "Bluerongrass"
 }
