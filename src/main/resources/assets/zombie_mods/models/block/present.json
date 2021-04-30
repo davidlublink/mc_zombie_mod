@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "zombie_mods:blocks/present",
-    "particle": "zombie_mods:blocks/present"
-  }
-}

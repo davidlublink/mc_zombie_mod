@@ -8,8 +8,6 @@
   "item.zombie_mods.glicth_sword": "Glicth Sword",
   "item.zombie_mods.lightning_rod": "Lightning Rod",
   "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
-  "block.zombie_mods.zombiefeid_ore": "Zombiefeid Ore",
   "item.zombie_mods.zombiefeidpickaxe": "Zombiefeidpickaxe",
-  "item.zombie_mods.fertalizer": "Fertalizer",
-  "key.mcreator.xmake": "Xmake"
+  "item.zombie_mods.fertalizer": "Fertalizer"
 }
