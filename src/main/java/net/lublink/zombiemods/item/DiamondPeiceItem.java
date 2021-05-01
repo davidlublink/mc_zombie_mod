@@ -12,11 +12,11 @@ import net.minecraft.block.BlockState;
 import net.lublink.zombiemods.ZombieModsModElements;
 
 @ZombieModsModElements.ModElement.Tag
-public class BlueronItem extends ZombieModsModElements.ModElement {
-	@ObjectHolder("zombie_mods:blueron")
+public class DiamondPeiceItem extends ZombieModsModElements.ModElement {
+	@ObjectHolder("zombie_mods:diamond_peice")
 	public static final Item block = null;
-	public BlueronItem(ZombieModsModElements instance) {
-		super(instance, 52);
+	public DiamondPeiceItem(ZombieModsModElements instance) {
+		super(instance, 37);
 	}
 
 	@Override
@@ -26,7 +26,7 @@ public class BlueronItem extends ZombieModsModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("blueron");
+			setRegistryName("diamond_peice");
 		}
 
 		@Override

@@ -1,0 +1,12 @@
+{
+  "group": "zombie_mods",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "zombie_mods:blueron_ore"
+  },
+  "result": {
+    "item": "zombie_mods:blueron"
+  }
+}

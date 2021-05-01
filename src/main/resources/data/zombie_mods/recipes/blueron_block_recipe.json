@@ -1,0 +1,42 @@
+{
+  "group": "zombie_mods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zombie_mods:blueron"
+    },
+    "1": {
+      "item": "zombie_mods:blueron"
+    },
+    "2": {
+      "item": "zombie_mods:blueron"
+    },
+    "3": {
+      "item": "zombie_mods:blueron"
+    },
+    "4": {
+      "item": "zombie_mods:blueron"
+    },
+    "5": {
+      "item": "zombie_mods:blueron"
+    },
+    "6": {
+      "item": "zombie_mods:blueron"
+    },
+    "7": {
+      "item": "zombie_mods:blueron"
+    },
+    "8": {
+      "item": "zombie_mods:blueron"
+    }
+  },
+  "result": {
+    "item": "zombie_mods:blueron_block",
+    "count": 1
+  }
+}

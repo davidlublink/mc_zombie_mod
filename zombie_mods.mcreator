@@ -103,15 +103,6 @@
       }
     },
     {
-      "name": "Fertalizer",
-      "type": "item",
-      "sortid": 9,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "fertalizer"
-    },
-    {
       "name": "ZombieSwordRecipe",
       "type": "recipe",
       "sortid": 10,
@@ -323,13 +314,265 @@
       "registry_name": "glitch_sword_recipe"
     },
     {
+      "name": "Blurongrass",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blurongrass"
+    },
+    {
+      "name": "BlueronBlock",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blueron_block"
+    },
+    {
+      "name": "DiamondPeice",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_peice"
+    },
+    {
+      "name": "SwordBottem",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sword_bottem"
+    },
+    {
+      "name": "DiamondAndIronSwordTop",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_and_iron_sword_top"
+    },
+    {
+      "name": "DiamondAndIronSword",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_and_iron_sword"
+    },
+    {
+      "name": "StringDiaon",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_diaon"
+    },
+    {
+      "name": "Irdiaswoed",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "irdiaswoed"
+    },
+    {
+      "name": "IronDiamodRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_diamod_recipe"
+    },
+    {
+      "name": "StringIrdiaRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_irdia_recipe"
+    },
+    {
+      "name": "DironTop",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diron_top"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyfeidSword",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyfeid_sword"
+    },
+    {
+      "name": "ZombiefeidOre",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombiefeid_ore"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "ZombieOreSmelt",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_ore_smelt"
+    },
+    {
+      "name": "RubyOreSmelt",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_smelt"
+    },
+    {
       "name": "Blueron",
       "type": "item",
-      "sortid": 29,
-      "compiles": false,
+      "sortid": 52,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "blueron"
+    },
+    {
+      "name": "ZombieOreBlast",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie_ore_blast"
+    },
+    {
+      "name": "RockFood",
+      "type": "food",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_food"
+    },
+    {
+      "name": "RockFoodRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rock_food_recipe"
+    },
+    {
+      "name": "BlueronBlockRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blueron_block_recipe"
+    },
+    {
+      "name": "BlueAge",
+      "type": "achievement",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_age"
+    },
+    {
+      "name": "BlueronOre",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blueron_ore"
+    },
+    {
+      "name": "BlueronOreSmelt",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blueron_ore_smelt"
+    },
+    {
+      "name": "BlueronRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blueron_recipe"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "Merge",
+      "type": "tab",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "merge"
     }
   ],
   "variable_elements": [],
@@ -337,16 +580,33 @@
   "language_map": {
     "en_us": {
       "item.zombie_mods.zombiefeid_axe": "Zombiefeid Axe",
-      "item.zombie_mods.zombiefeid_shovel": "Zombiefeid Shovel",
+      "item.zombie_mods.rock_food": "Rock Food",
+      "item.zombie_mods.sword_bottem": "diamond and iron Bottem",
+      "item.zombie_mods.blueron": "Blueron",
+      "block.zombie_mods.blurongrass": "Blurongrass",
+      "itemGroup.tabmerge": "Merge",
       "item.zombie_mods.double_stick": "Double Stick",
-      "item.zombie_mods.zombiefeidhoe": "Zombiefeidhoe",
       "item.zombie_mods.zombiefied": "Zombiefied",
+      "item.zombie_mods.ruby_sword": "Ruby Sword",
       "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
+      "advancements.blue_age.descr": "you found blueron",
       "item.zombie_mods.glicth_sword": "Glicth Sword",
-      "item.zombie_mods.lightning_rod": "Lightning Rod",
+      "block.zombie_mods.blueron_block": "Blueron Block",
       "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
+      "item.zombie_mods.diamond_and_iron_sword_top": "Diamond And Iron Sword Top",
+      "block.zombie_mods.ruby_block": "Ruby Block",
       "item.zombie_mods.zombiefeidpickaxe": "Zombiefeidpickaxe",
-      "item.zombie_mods.fertalizer": "Fertalizer"
+      "block.zombie_mods.blueron_ore": "Blueron Ore",
+      "advancements.blue_age.title": "Blue Age",
+      "block.zombie_mods.ruby_ore": "Ruby Ore",
+      "item.zombie_mods.zombiefeid_shovel": "Zombiefeid Shovel",
+      "item.zombie_mods.zombiefeidhoe": "Zombiefeidhoe",
+      "item.zombie_mods.ruby": "Ruby",
+      "item.zombie_mods.string_diaon": "String Diaon",
+      "item.zombie_mods.diamond_and_iron_sword": "Diamond And Iron Sword",
+      "item.zombie_mods.lightning_rod": "Lightning Rod",
+      "block.zombie_mods.zombiefeid_ore": "Zombiefeid Ore",
+      "item.zombie_mods.diamond_peice": "Diamond Peice"
     }
   },
   "workspaceSettings": {

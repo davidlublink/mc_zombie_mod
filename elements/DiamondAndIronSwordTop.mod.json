@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "blueron",
+    "texture": "swordtop",
     "customModelName": "Normal",
-    "name": "Blueron",
+    "name": "Diamond And Iron Sword Top",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Merge"
     },
     "stackSize": 64,
     "enchantability": 0,

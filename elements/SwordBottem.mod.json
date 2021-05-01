@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "blueron",
+    "texture": "swordbottem",
     "customModelName": "Normal",
-    "name": "Blueron",
+    "name": "diamond and iron Bottem",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Merge"
     },
     "stackSize": 64,
     "enchantability": 0,

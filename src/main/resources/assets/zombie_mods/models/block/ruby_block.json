@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zombie_mods:blocks/rubyblock",
+    "particle": "zombie_mods:blocks/rubyblock"
+  }
+}

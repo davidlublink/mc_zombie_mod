@@ -1,0 +1,12 @@
+{
+  "group": "zombie_mods",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "zombie_mods:zombiefeid_ore"
+  },
+  "result": {
+    "item": "zombie_mods:zombiefeid_ingot"
+  }
+}

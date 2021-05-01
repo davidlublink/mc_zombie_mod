@@ -5,18 +5,18 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
+import net.lublink.zombiemods.itemgroup.MergeItemGroup;
 import net.lublink.zombiemods.ZombieModsModElements;
 
 @ZombieModsModElements.ModElement.Tag
-public class BlueronItem extends ZombieModsModElements.ModElement {
-	@ObjectHolder("zombie_mods:blueron")
+public class StringDiaonItem extends ZombieModsModElements.ModElement {
+	@ObjectHolder("zombie_mods:string_diaon")
 	public static final Item block = null;
-	public BlueronItem(ZombieModsModElements instance) {
-		super(instance, 52);
+	public StringDiaonItem(ZombieModsModElements instance) {
+		super(instance, 41);
 	}
 
 	@Override
@@ -25,8 +25,8 @@ public class BlueronItem extends ZombieModsModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("blueron");
+			super(new Item.Properties().group(MergeItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
+			setRegistryName("string_diaon");
 		}
 
 		@Override

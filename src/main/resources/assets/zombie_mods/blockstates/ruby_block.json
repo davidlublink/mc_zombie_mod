@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "zombie_mods:block/ruby_block"
+    }
+  }
+}

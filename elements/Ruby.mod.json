@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "blueron",
+    "texture": "ruby",
     "customModelName": "Normal",
-    "name": "Blueron",
+    "name": "Ruby",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"

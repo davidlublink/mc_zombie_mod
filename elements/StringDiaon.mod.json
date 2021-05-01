@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "blueron",
+    "texture": "sjgrehs",
     "customModelName": "Normal",
-    "name": "Blueron",
+    "name": "String Diaon",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Merge"
     },
     "stackSize": 64,
     "enchantability": 0,
