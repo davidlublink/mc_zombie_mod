@@ -1,0 +1,42 @@
+{
+  "group": "zombie_mods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zombie_mods:ruby"
+    },
+    "1": {
+      "item": "zombie_mods:ruby"
+    },
+    "2": {
+      "item": "zombie_mods:ruby"
+    },
+    "3": {
+      "item": "zombie_mods:ruby"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "item": "zombie_mods:ruby"
+    },
+    "6": {
+      "item": "zombie_mods:ruby"
+    },
+    "7": {
+      "item": "zombie_mods:ruby"
+    },
+    "8": {
+      "item": "zombie_mods:ruby"
+    }
+  },
+  "result": {
+    "item": "zombie_mods:big_fat_chest",
+    "count": 1
+  }
+}

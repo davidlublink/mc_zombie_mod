@@ -573,6 +573,139 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "merge"
+    },
+    {
+      "name": "DiiamondItemInHandTick",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diiamond_item_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Diiamond",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diiamond"
+    },
+    {
+      "name": "DiiamondOre",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diiamond_ore"
+    },
+    {
+      "name": "CreativeModeRightClickedInAir",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_mode_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CreativeMode",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_mode"
+    },
+    {
+      "name": "BigFatChest",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "big_fat_chest"
+    },
+    {
+      "name": "BigFatChestGui",
+      "type": "gui",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "big_fat_chest_gui"
+    },
+    {
+      "name": "BigFatChestOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "big_fat_chest_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ChestRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chest_recipe"
     }
   ],
   "variable_elements": [],
@@ -588,8 +721,10 @@
       "item.zombie_mods.double_stick": "Double Stick",
       "item.zombie_mods.zombiefied": "Zombiefied",
       "item.zombie_mods.ruby_sword": "Ruby Sword",
+      "block.zombie_mods.diiamond_ore": "Diiamond Ore",
       "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
       "advancements.blue_age.descr": "you found blueron",
+      "item.zombie_mods.diiamond": "Diiamond",
       "item.zombie_mods.glicth_sword": "Glicth Sword",
       "block.zombie_mods.blueron_block": "Blueron Block",
       "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
@@ -604,9 +739,11 @@
       "item.zombie_mods.ruby": "Ruby",
       "item.zombie_mods.string_diaon": "String Diaon",
       "item.zombie_mods.diamond_and_iron_sword": "Diamond And Iron Sword",
+      "item.zombie_mods.creative_mode": "Creative Mode",
       "item.zombie_mods.lightning_rod": "Lightning Rod",
       "block.zombie_mods.zombiefeid_ore": "Zombiefeid Ore",
-      "item.zombie_mods.diamond_peice": "Diamond Peice"
+      "item.zombie_mods.diamond_peice": "Diamond Peice",
+      "block.zombie_mods.big_fat_chest": "Big Fat Chest"
     }
   },
   "workspaceSettings": {

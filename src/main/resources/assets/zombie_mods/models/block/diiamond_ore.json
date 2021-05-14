@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zombie_mods:blocks/diiamonfh",
+    "up": "zombie_mods:blocks/diiamonfh",
+    "north": "zombie_mods:blocks/diiamonfh",
+    "east": "zombie_mods:blocks/diiamonfh",
+    "south": "zombie_mods:blocks/diiamonfh",
+    "west": "zombie_mods:blocks/diiamonfh",
+    "particle": "zombie_mods:blocks/diiamonfh"
+  }
+}

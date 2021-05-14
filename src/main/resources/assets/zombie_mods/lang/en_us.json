@@ -8,8 +8,10 @@
   "item.zombie_mods.double_stick": "Double Stick",
   "item.zombie_mods.zombiefied": "Zombiefied",
   "item.zombie_mods.ruby_sword": "Ruby Sword",
+  "block.zombie_mods.diiamond_ore": "Diiamond Ore",
   "block.zombie_mods.zombiefeid_block": "Zombiefeid Block",
   "advancements.blue_age.descr": "you found blueron",
+  "item.zombie_mods.diiamond": "Diiamond",
   "item.zombie_mods.glicth_sword": "Glicth Sword",
   "block.zombie_mods.blueron_block": "Blueron Block",
   "item.zombie_mods.zombiefeid_ingot": "Zombiefeid Ingot",
@@ -24,7 +26,9 @@
   "item.zombie_mods.ruby": "Ruby",
   "item.zombie_mods.string_diaon": "String Diaon",
   "item.zombie_mods.diamond_and_iron_sword": "Diamond And Iron Sword",
+  "item.zombie_mods.creative_mode": "Creative Mode",
   "item.zombie_mods.lightning_rod": "Lightning Rod",
   "block.zombie_mods.zombiefeid_ore": "Zombiefeid Ore",
-  "item.zombie_mods.diamond_peice": "Diamond Peice"
+  "item.zombie_mods.diamond_peice": "Diamond Peice",
+  "block.zombie_mods.big_fat_chest": "Big Fat Chest"
 }
